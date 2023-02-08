@@ -5,12 +5,13 @@ Hey, I'm Leo (aka karolyleo). I'm a fullstack developer who's all about math and
 - 🚀 Launching new projects into space. Currently taking off with:
    - Interactive Weather Map
    - Any User's Latest Commit Finder
+   - Flick Wik-i
 
 
 - 🔭 Currently working on:
    - My Personal Site
    - WhatsApp GPT
-   - Flick Wik-i
+
 
 
 - 🌱 I’m currently learning:
