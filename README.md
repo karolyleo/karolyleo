@@ -17,6 +17,7 @@ Hey, I'm Leo (aka karolyleo). I'm a fullstack developer who's all about math and
 - 🌱 I’m currently learning:
    - IBM Data Analyist Certification
    - React
+   - Java
 
 
 - 📫 How to reach me:
