@@ -6,13 +6,13 @@ Hey, I'm Leo (aka karolyleo). I'm a fullstack developer who's all about math and
    - Interactive Weather Map
    - Any User's Latest Commit Finder
    - Flick Wik-i
+   - Contact Manager
 
 
 - 🔭 Currently working on:
    - My Personal Site
    - WhatsApp GPT
    - ML models
-   - ContactManager
 
 
 
