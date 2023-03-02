@@ -23,7 +23,7 @@ Hey, I'm Leo (aka karolyleo). I'm a fullstack developer who's all about math and
 
 
 - 📫 How to reach me:
-   - Email: k
+   - Email: leonard.a.karoly@gmail.com
    - Telegram:
    - Twitter:
    - Website: 
