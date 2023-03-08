@@ -20,6 +20,7 @@ Hey, I'm Leo (aka karolyleo). I'm a fullstack developer who's all about math and
    - IBM Data Analyist Certification
    - React
    - Java
+   - mySQL
 
 
 - 📫 How to reach me:
