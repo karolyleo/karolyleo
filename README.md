@@ -9,7 +9,6 @@ Hey, I'm Leo (aka karolyleo). I'm a fullstack developer who's all about math and
    - Contact Manager
    - Ad Lister with different User authentications 
 
-
 - 🔭 Currently working on:
    - My Personal Site
    - WhatsApp GPT
