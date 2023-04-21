@@ -8,6 +8,7 @@ Hey, I'm Leo (aka karolyleo). I'm a fullstack developer who's all about math and
    - Flick Wik-i
    - Contact Manager
    - Ad Lister with different User authentications 
+   - IBM Demographic and Techonoliges used [**link**](https://dataplatform.cloud.ibm.com/dashboards/f1ec3428-2a47-485c-b8e4-c08a260dde51/view/6066bc161eeb0efc17e8bde407cd2e5575342c09b5bbd20384d07b490f617097f33a1595c82a180e88440c65fabf145dcc)
 
 - 🔭 Currently working on:
    - My Personal Site
