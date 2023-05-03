@@ -1,3 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
+   <div id="badges">
+  <a href="https://www.linkedin.com/in/leonardkaroly/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://karolyleo.github.io/">
+    <img src="https://img.shields.io/badge/personal_site-black?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site Badge"/>
+  </a>
+</div>
+</div>
+
+
 ### Hi there 👋
 Hey, I'm Leo (aka karolyleo). I'm a fullstack developer who's all about math and functional programming. I'm a computer science student in Texas and an army soldier. When I'm not coding, I'm always looking for new and exciting ways to push the limits and let my creativity roam free. Let's geek out together!
 
