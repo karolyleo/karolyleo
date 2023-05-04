@@ -68,3 +68,6 @@ hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karolyleo&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolyleo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
