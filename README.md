@@ -13,7 +13,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi_there👋&height=100&section=header"/>
   </p>
 </div>
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
 ```yaml
 name: Leonard K.
@@ -34,39 +34,37 @@ fields_of_interests:
     "Software Development",
     "DevOps",
   ]
-
 currently_learning: ["German, Kubernetes, and React Native"]
 2023 Goals: ["Create 5+ Projects and learn at least 2 new Technologies."]
 hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding"]
 ```
-  
-
-Hey, I'm Leo (aka karolyleo). I'm a fullstack developer who's all about math and functional programming. I'm a computer science student in Texas and an army soldier. When I'm not coding, I'm always looking for new and exciting ways to push the limits and let my creativity roam free. Let's geek out together!
-
-- 🚀 Launching new projects into space. Projects taken off:
+---
+## 🚀 Projects
+   - [Coaches Corner](https://www.coachescorner.me)
    - Interactive Weather Map
    - Any User's Latest Commit Finder
    - Flick Wik-i
    - Contact Manager
    - Ad Lister with different User authentications 
    - IBM Demographic and Technologies ​ M5 Survey [**link**](https://dataplatform.cloud.ibm.com/dashboards/f1ec3428-2a47-485c-b8e4-c08a260dde51/view/6066bc161eeb0efc17e8bde407cd2e5575342c09b5bbd20384d07b490f617097f33a1595c82a180e88440c65fabf145dcc)
-
-- 🔭 Currently working on:
-   - My Personal Site
-   - WhatsApp GPT
-   - ML models
-   - Statstical Dashbord for Gym Tracking
-
-
-- 🌱 I’m currently learning:
-   - IBM Data Analyist Certification
-   - React
-   - Java
-   - mySQL
-
-
-- 📫 How to reach me:
-   - Email: [**leonard.a.karoly@gmail.com**](mailto:leonard.a.karoly@gmail.com)
-   - Telegram: *tbd
-   - Website: [**karolyleo.github.io**](https://karolyleo.github.io)
- 
+<h3>Techonologies Used</h3>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="45" height="45"/>
+<!--   <img src="https://cdn.jsdelivr.net/npm/chart.js@3.3.2/dist/chart.min.js" alt="Chart.js Logo" width="45" height="45"/> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+</p>
