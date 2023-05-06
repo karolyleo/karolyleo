@@ -21,7 +21,7 @@ located_in: Texas
 current_job: n/a
 education:
   [
-    "Bootcamp Gradaute and Designer",
+    "Bootcamp Gradaute and Artist",
     "Associate's in General Studies",
   ]
 company: tbd
