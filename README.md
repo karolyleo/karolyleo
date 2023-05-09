@@ -16,7 +16,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
 ```yaml
-name: Leonard K.
+name: Leonard Karoly
 located_in: Texas
 current_job: n/a
 education:
