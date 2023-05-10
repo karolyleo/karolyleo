@@ -36,7 +36,7 @@ fields_of_interests:
   ]
 currently_learning: ["German, Kubernetes, and React Native"]
 2023 Goals: ["Create 5+ Projects and learn at least 2 new Technologies."]
-hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding"]
+hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Cooking"]
 ```
 ---
 ## 🚀 Projects
