@@ -24,7 +24,7 @@ education:
     "Bootcamp Gradaute and Artist",
     "Associate's in General Studies",
   ]
-company: tbd
+company: coming-soon
 fields_of_interests:
   [
     "Web Development",
