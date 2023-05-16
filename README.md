@@ -59,7 +59,7 @@ hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Cooking"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="45" height="45"/>
-<!--  why this no work <img src="https://cdn.jsdelivr.net/npm/chart.js@3.3.2/dist/chart.min.js" alt="Chart.js Logo" width="45" height="45"/> -->
+<!--  why doesn't this work <img src="https://cdn.jsdelivr.net/npm/chart.js@3.3.2/dist/chart.min.js" alt="Chart.js Logo" width="45" height="45"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
