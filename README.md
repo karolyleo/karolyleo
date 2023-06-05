@@ -40,7 +40,7 @@ hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Eating"]
 ```
 ---
 ## 🚀 Projects
-   - [Coaches Corner](https://www.coachescorner.me)
+   - [Coaches Corner](https://www.coachescorner.me) - Github link
    - Interactive Weather Map
    - Github Latest Commit Finder
    - Flick Wiki
