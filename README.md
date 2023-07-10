@@ -23,6 +23,7 @@ education:
   [
     "Bootcamp Gradaute and Artist",
     "Associate's in General Studies",
+    "Microsoft Systems Software Academy"
   ]
 company: coming-soon
 fields_of_interests:
