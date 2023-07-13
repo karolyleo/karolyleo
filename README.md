@@ -16,7 +16,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
 ```yaml
-name: Leonard Karoly
+name: Leo Karoly
 located_in: Texas
 current_job: n/a
 education:
@@ -35,7 +35,7 @@ fields_of_interests:
     "Software Development",
     "DevOps",
   ]
-currently_learning: ["German, Kubernetes, .NET, C# , and React Native"]
+currently_learning: ["German, Kubernetes, .NET, C#, BS in Computer Science, and React Native"]
 2023 Goals: ["Create 5+ Projects and learn at least 2 new Technologies."]
 hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Eating"]
 ```
