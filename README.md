@@ -21,7 +21,9 @@ located_in: Texas
 current_job: n/a
 education:
   [
-    "Bootcamp Gradaute and Artist",
+    "Google IT Support",
+    "Codeup Bootcamp Graduate",
+    "IBM Data Analyst",
     "Associate's in General Studies",
     "Microsoft Systems Software Academy"
   ]
