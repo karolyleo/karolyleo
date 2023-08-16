@@ -18,7 +18,7 @@
 ```yaml
 name: Leo Karoly
 located_in: Texas
-current_job: n/a
+current_job: MSSA
 education:
   [
     "Google IT Support",
