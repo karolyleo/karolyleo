@@ -71,6 +71,8 @@ hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Food"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="csharp" width="45" height"45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-plain-wordmark.svg" alt="figma" width="45" height="45"/>   
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karolyleo&theme=dark&background=000000)](https://git.io/streak-stats)
