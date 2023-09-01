@@ -16,9 +16,9 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
 ```yaml
-name: Leo Karoly
-located_in: Texas
-current_job: MSSA
+name: Leo Karoly ,
+located_in: Texas ,
+current_job: MSSA ,
 education:
   [
     "Google IT Support",
@@ -26,8 +26,8 @@ education:
     "IBM Data Analyst",
     "Associate's in General Studies",
     "Microsoft Systems Software Academy"
-  ]
-company: coming-soon
+  ],
+company: coming-soon ,
 fields_of_interests:
   [
     "Web Development",
@@ -36,9 +36,9 @@ fields_of_interests:
     "UI/UX",
     "Software Development",
     "DevOps",
-  ]
-currently_learning: ["German, Kubernetes, .NET, C#, BS in Computer Science, and React Native"]
-2023 Goals: ["Create 4+ Projects and learn at least 2 new Technologies."]
+  ],
+currently_learning: ["German, Kubernetes, .NET, C#, BS in Computer Science, and React Native"],
+2023 Goals: ["Create 4+ Projects and learn at least 2 new Technologies."],
 hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Food"]
 ```
 ---
