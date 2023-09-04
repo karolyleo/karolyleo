@@ -39,7 +39,7 @@ fields_of_interests:
   ],
 currently_learning: ["German, Kubernetes, .NET, C#, BS in Computer Science, and React Native"],
 2023 Goals: ["Create 4+ Projects and learn at least 2 new Technologies."],
-hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Food"]
+hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Food"];
 ```
 ---
 ## 🚀 Projects
