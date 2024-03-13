@@ -18,7 +18,7 @@
 ```yaml
 name: Leo Karoly ,
 located_in: Texas ,
-current_job: MSSA ,
+current_job: Reynolds and Reynolds ,
 education:
   [
     "Google IT Support",
@@ -38,7 +38,7 @@ fields_of_interests:
     "DevOps",
   ],
 currently_learning: ["German, Kubernetes, .NET, C#, BS in Computer Science, and React Native"],
-2023 Goals: ["Create 4+ Projects and learn at least 2 new Technologies."],
+2024 Goals: ["Create 4+ Projects and learn at least 2 new Technologies."],
 hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Food"];
 ```
 ---
