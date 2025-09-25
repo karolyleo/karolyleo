@@ -18,7 +18,7 @@
 ```yaml
 name: Leo Karoly ,
 located_in: Texas ,
-current_job: Reynolds and Reynolds ,
+current_job: Software Developer,
 education:
   [
     "Google IT Support",
