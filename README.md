@@ -25,7 +25,8 @@ education:
     "Codeup Bootcamp Graduate",
     "IBM Data Analyst",
     "Associate's in General Studies",
-    "Microsoft Systems Software Academy"
+    "Microsoft Systems Software Academy",
+    "BS in Computer Science"
   ],
 company: coming-soon ,
 fields_of_interests:
@@ -37,8 +38,8 @@ fields_of_interests:
     "Software Development",
     "DevOps",
   ],
-currently_learning: ["German, Kubernetes, .NET, C#, BS in Computer Science, and React Native"],
-2024 Goals: ["Create 4+ Projects and learn at least 2 new Technologies."],
+currently_learning: ["German, Jenkins, .NET, C# , and React Native"],
+2026 Goals: ["Create 3+ Projects and learn at least 2 new Technologies."],
 hobbies: ["Traveling", "Fitness", "Camping", "Art", "Coding", "Food"];
 ```
 ---
